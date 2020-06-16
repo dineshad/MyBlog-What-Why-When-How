@@ -9,8 +9,15 @@ Why PWA can be beneficial?
   No seperate apps for web and mobile and different apps for each popular mobile OS.
   
   
-  
-  
+How to develop a PWA?
+ Beginner Project:
+ 
+
+
+
+
+
+
   
   
   
