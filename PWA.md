@@ -10,7 +10,7 @@ Why PWA can be beneficial?
   
   
 How to make a web application, a PWA?
- 1. Make the web application installable / able to add to the home screen.
+ 1. Make the web application installable / able to "Add to the Home Screen" (A2HS).
     
     How to do this:
     (i) Serve the website from a secure(HTTPS) domain.
