@@ -12,11 +12,14 @@ Why PWA can be beneficial?
 How to make a web application, a PWA?
  1. Make the web application installable / able to add to the home screen.
     
-    How to achieve this:
-    (i) Make sure the website is served from a secure(HTTPS) domain.
-    (ii) Add a web manifest file to the web app.
-    Link a file of type .webmanifest to index.html
+    How to do this:
+    (i) Serve the website from a secure(HTTPS) domain.
+    (ii) Link a web manifest file (of type .webmanifest)  to the index.html of the web app with necessary details.
+    How to link to the index.html
     <link rel="manifest" href="manifest.webmanifest">
+    Necessary details on web manifest file. *
+    
+    *
     
     
     
