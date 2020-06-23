@@ -14,9 +14,16 @@ How to make a web application, a PWA?
     
     How to achieve this:
     (i) Make sure the website is served from a secure(HTTPS) domain.
-    (ii)
+    (ii) Add a web manifest file to the web app.
+    Link a file of type .webmanifest to index.html
+    <link rel="manifest" href="manifest.webmanifest">
     
-    Demo: 
+    
+    
+    
+   
+    
+    Demo: https://dineshad.github.io/sandbox/PWA/addToHomeScreen/
     Code:https://github.com/dineshad/sandbox/tree/master/PWA/addToHomeScreen
     
  2. Make the application network independent.
