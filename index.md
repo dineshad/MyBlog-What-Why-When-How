@@ -5,4 +5,4 @@ What? Why? How?
 
 PWA
 API
-<Youtube urls for screencasts>
+Youtube urls for screencasts
