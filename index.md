@@ -30,9 +30,9 @@ How to work around GitHub's (bit annoying) feature to veryfy the device by enter
 Just log in to GitHub in incognito/private browser window.
 
 What is SVG
-When and why is it used instead of jpg,jpeg,png etc?
-How to create a circle svg button
-H
+When and why SVG is used instead of jpg,jpeg,png etc?
+How to create from scratch a circle svg button with text on it ,save it in the application folder and include in the html file?
+
 
 What's the difference .jpg and .jpeg?
 
