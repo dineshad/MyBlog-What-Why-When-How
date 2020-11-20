@@ -49,7 +49,7 @@ About these shortcuts(emmet abbreviations):  https://medium.com/@kartik2406/web-
 https://code.visualstudio.com/blogs/2017/08/07/emmet-2.0
 
 Open files in Chromium browser from VSCode,Ubuntu: 
-While in a workspace folder in VSCode press Ctrl+ P and select tasks.json.
+While in a workspace folder in VSCode press Ctrl+Shift+P and select tasks.json.
 Block comment what's already there and copy the following code.
         
         {
