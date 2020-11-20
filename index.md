@@ -37,16 +37,40 @@ How to create from scratch a circle svg button with text on it ,save it in the a
 
 What's the difference .jpg and .jpeg?
 
-Shortcuts:
+
 VSCode
+
 Typing "!" and pressing Enter generates HTML skeleton.
 Typing ""link:css"" and pressing Enter generates ""<link rel="stylesheet" href="style.css">.
 Typing "script:src" and pressing Enter generates "<script src=""></script>"
 Similarly try "ul>li*3>a" , "button>img*3" etc. Replace 3 with any number you like.
 About these shortcuts(emmet abbreviations):  https://medium.com/@kartik2406/web-development-with-vs-code-part-1-emmet-6af80f0f630c 
 https://code.visualstudio.com/blogs/2017/08/07/emmet-2.0
-        
+
+Open files in Chromium browser from VSCode,Ubuntu: 
+While in a workspace folder in VSCode press Ctrl+ P and select tasks.json.
+Block comment what's already there and copy the following code.
+{
+    "version": "2.0.0",    
+    "command": "chromium-browser",
+    "linux": {
+        "command": "chromium-browser"
+    },
+    "args": ["${file}"]
+
+}
+Save the tasks.json.
+Open the file which need to be opened in the browser. being in that file press Ctrl+Shift+B.
+
 
 Ubuntu
+To list all the packages listed :apt list --installed
+To see where a program is installed: whereis <package name>
+To see the version of a program installed: which <package name>
+To access root directy via GUI: sudo -i nautilus
+To start a program through terminal : Just find the exact package name for the program, and just type it in the terminal.
+                                      Eg: If want to launch chromium browser from the terminal, type "chromium-browser" 
+
+
 
 Chrome Browser
