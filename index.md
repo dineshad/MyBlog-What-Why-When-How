@@ -26,8 +26,9 @@ Why is it better to link the script file at the end of the body section rather t
 
 
 What's the difference between 'Commit directly to master branch' and "Create a new branch for this commit and start a pull request."?
-How to work around GitHub's (bit annoying) feature to veryfy the device by entering the code sent to the email?
-Just log in to GitHub in incognito/private browser window.
+
+<!--How to work around GitHub's (bit annoying) feature to veryfy the device by entering the code sent to the email?
+Just log in to GitHub in incognito/private browser window.-->
 
 What is SVG
 When and why SVG is used instead of jpg,jpeg,png etc?
