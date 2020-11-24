@@ -35,6 +35,13 @@ What is SVG
 When and why SVG is used instead of jpg,jpeg,png etc?
 How to create from scratch a circle svg button with text on it ,save it in the application folder and include in the html file?
 
+What is a CSS layout?
+What're CSS layout types?
+How they're different from each other?
+Why grid? Why not flexbox?
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction
+css justify-items
+
 
 What's the difference .jpg and .jpeg?
 
