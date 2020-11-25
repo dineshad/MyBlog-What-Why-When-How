@@ -83,6 +83,9 @@ To start a program through terminal : Just find the exact package name for the p
 
 
 Chromium Browser
+Get screenshots without a plugin (linux): Ctrl + Shift+I ->Ctrl +Shift + P
+
+
 
 Markdown
 www.markdownguide.org
