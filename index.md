@@ -41,6 +41,7 @@ How they're different from each other?
 Why grid? Why not flexbox?
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction
 css justify-items
+What's border-radius? It's to define radius of the element's corners.(If want to change shapes of 1 or more corners of an element,this the one to use. )
 
 
 What's the difference .jpg and .jpeg?
