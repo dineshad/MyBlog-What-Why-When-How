@@ -32,8 +32,14 @@ What's the difference between 'Commit directly to master branch' and "Create a n
 Just log in to GitHub in incognito/private browser window.-->
 
 What is SVG
+XML-based markup language for describing two-dimensional vector graphics.Unlike JPEGs, GIFs, and BMP images, vector graphics are not made up of a grid of pixels.
+Vector graphics are comprised of paths, which are defined by a start and end point.They can be scaled to a different size and not lose any image quality.
 When and why SVG is used instead of jpg,jpeg,png etc?
 How to create from scratch a circle svg button with text on it ,save it in the application folder and include in the html file?
+
+
+
+
 
 What is a CSS layout?
 What're CSS layout types?
@@ -42,7 +48,9 @@ Why grid? Why not flexbox?
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction
 css justify-items
 What's border-radius? It's to define radius of the element's corners.(If want to change shapes of 1 or more corners of an element,this the one to use. )
-
+What's the difference of outline and a margin of an element?
+outline only makes a line around any element to make it look different from the other elements.it will not give any space. whereas margin will give space around any element. If you give margin, it will give a space in the direction provided outside the container. Can't color a margin. 
+em : emphemeral unit one em is defined as the current font size, however that is defined. For most elements it's the inherited (computed) value from its parent element.
 
 What's the difference .jpg and .jpeg?
 
@@ -71,7 +79,7 @@ Block comment what's already there and copy the following code.
         }
 Save the tasks.json.
 Open the file which need to be opened in the browser. being in that file press Ctrl+Shift+B.
-
+How to open stop files opening on the same tab : File->Preferances-> Search for the setting "editor.enablePreview" , remove the tick.    
 
 Ubuntu
 To list all the packages listed :apt list --installed
@@ -85,6 +93,8 @@ To start a program through terminal : Just find the exact package name for the p
 
 Chromium Browser
 Get screenshots without a plugin (linux): Ctrl + Shift+I ->Ctrl +Shift + P
+Move across tabs: Ctrl + tab, Ctrl + Shift + Tab
+New Tab: Ctrl +t
 
 
 
