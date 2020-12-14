@@ -93,7 +93,7 @@ Save the tasks.json.
 Open the file which need to be opened in the browser. being in that file press Ctrl+Shift+B.
 How to open stop files opening on the same tab : File->Preferances-> Search for the setting "editor.enablePreview" , remove the tick. 
 
-
+What EPOCH stands for ? 
 Ubuntu
 To list all the packages listed :apt list --installed
 To see where a program is installed: whereis <package name>
