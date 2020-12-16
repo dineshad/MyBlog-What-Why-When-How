@@ -62,6 +62,11 @@ What's the difference .jpg and .jpeg?
 JavaScript
 What's the long value returned by JavaScript Date.now() object to get the milliseconds elapsed since January 1, 1970, 00:00:00 UTC, which is also known as the Unix time or Epoch time.
 Date() is object or function?
+What're the expressions with $ sign?
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+
+
+
 
 VSCode
 
