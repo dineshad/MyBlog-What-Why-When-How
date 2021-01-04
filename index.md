@@ -64,6 +64,12 @@ What's the long value returned by JavaScript Date.now() object to get the millis
 Date() is object or function?
 What're the expressions with $ sign?
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+
+
+[TypeScript](typescript)
+
+
+
 https://developer.mozilla.org/en-US/docs/Web/API
 https://developer.mozilla.org/en-US/docs/Glossary/Variable
 
