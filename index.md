@@ -66,7 +66,7 @@ What're the expressions with $ sign?
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
 
 
-[TypeScript](TypeScript)
+[TypeScript](typescript.md)
 
 
 
