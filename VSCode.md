@@ -1,6 +1,7 @@
 * What is the shotrtcut key of VS Code for
 
   | accessing extensions | Ctrl + Shift + X |
+  | access terminal | Ctrl + ` |
 
 
 
