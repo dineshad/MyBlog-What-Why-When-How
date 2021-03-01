@@ -1,11 +1,11 @@
 
--[VS Code](VSCode.md)
--[Markdown Language](markdown.md)
--[HTML](html.md)      
--[CSS](css.md)  
--[SVG](svg.md)
--[JavaScript](javascript.md)  
--[TypeScript](typescript.md)
+- [VS Code](VSCode.md)
+- [Markdown Language](markdown.md)
+- [HTML](html.md)      
+- [CSS](css.md)  
+- [SVG](svg.md)
+- [JavaScript](javascript.md)  
+- [TypeScript](typescript.md)
 
 
 
