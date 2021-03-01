@@ -1,5 +1,5 @@
 
-
+exit python command prompt : ctrl + D
 To link commands &&
 rm -R folder-name
 To list all the packages listed :apt list --installed
