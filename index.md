@@ -1,6 +1,7 @@
 
 - [VS Code](VSCode.md)
 - [Markdown Language](markdown.md)
+- [Python](python.md)
 - [HTML](html.md)      
 - [CSS](css.md)  
 - [SVG](svg.md)
