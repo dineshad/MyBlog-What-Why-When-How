@@ -4,6 +4,11 @@
   | access terminal | Ctrl + ` |
 
 
+* How to commit a new project to GitHub from VSCode?
+(add screenshot)
+
+https://stackoverflow.com/questions/46877667/how-to-add-a-new-project-to-github-using-vs-code/63898638#63898638
+
 
 
 What are Emmet abbreviations?
