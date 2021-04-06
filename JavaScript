@@ -1,1 +1,4 @@
+What is Content Blocking in JavaScript?
 
+
+What are async and defer? Why use them?
